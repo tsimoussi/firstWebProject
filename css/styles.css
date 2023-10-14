@@ -1,0 +1,45 @@
+div.contenu {
+    width: 800px;
+    margin: auto;
+}
+div.imagesCoordonnees {
+    display: inline-block;
+    margin:30px;
+}
+
+div.imageContainer {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+div.coordonnees {
+    float: left;
+    margin:25px;
+}
+.listeSansPoints{
+    list-style-type: none;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+div.titre {
+    margin: 0px;
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    border-color:skyblue;
+    margin:30px;
+}
+.firstHr{
+    width:500px;
+    margin:auto;
+}
